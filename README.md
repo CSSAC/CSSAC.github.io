@@ -3,7 +3,7 @@
 
 > View [Papers](https://cssac.github.io/Papers/)
 
-> View [Code](https://cssac.github.io/)
+> View [Code](https://github.com/CSSAC/)
 
 > #### Updates
 > + DialogFlow Integration Module - [link](https://github.com/CSSAC/DialogFlow_Integration)
