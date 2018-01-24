@@ -8,3 +8,4 @@
 > #### Updates
 > + DialogFlow Integration Module - [link](https://github.com/CSSAC/DialogFlow_Integration)
 > + Text To Speech Module - [link](https://github.com/CSSAC/TextToSpeechModule)
+> + Play Bongo Entertainment Module - [link](https://github.com/CSSAC/Bongo)
