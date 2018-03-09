@@ -9,6 +9,7 @@
 > + DialogFlow Integration Module - [link](https://github.com/CSSAC/DialogFlow_Integration)
 > + Text To Speech Module - [link](https://github.com/CSSAC/TextToSpeechModule)
 > + Play Bongo Entertainment Module - [link](https://github.com/CSSAC/Bongo)
+> + Learning App MCQ Database Handler- [link](https://github.com/CSSAC/LearningApp)
 
 > #### Dependencies
 > + Android SQLiteAssetHelper - [link](https://github.com/jgilfelt/android-sqlite-asset-helper)
