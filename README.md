@@ -15,3 +15,4 @@
 
 > #### Dependencies
 > + Android SQLiteAssetHelper - [link](https://github.com/jgilfelt/android-sqlite-asset-helper)
+> + Firebase Auth Dependencies - [link](https://github.com/prrateekk/FirebasePractice/commit/dd06cb5a8af185cd8e66d41755583d6d5e212168)
