@@ -13,6 +13,7 @@
 > + Learning App Game Activity Added- [link](https://github.com/CSSAC/LearningApp/commit/f40ba09f0354400cdc9fb656eab11b1b3f88d8b2)
 > + Learning App Full Screen Landscape Only No Action Bar- [link](https://github.com/CSSAC/LearningApp/commit/774dffbaa9ec3203e7a0211333ebb81e4728e7e5)
 > + Firebase - Authorisation by Email- [link](https://github.com/prrateekk/FirebasePractice)
+> + Firebase - Database - [link](https://github.com/prrateekk/FirebasePractice/commit/eb01df513a82d3404620ff1061a1ae6d37beecd7)
 
 > #### Dependencies
 > + Android SQLiteAssetHelper - [link](https://github.com/jgilfelt/android-sqlite-asset-helper)
@@ -23,7 +24,7 @@
 > + Avatar Gifs
 > + click animations and transitions
 > + FirebasePractice - Authorisation by Google 
-> + FirebasePractice - Using Database
+> + ~~FirebasePractice - Using Database~~
 > + Design and Create APP Project - add registration/login -> DialogFlow -> App
 > + User Data Class
 > + Analytics Code
