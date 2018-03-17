@@ -18,6 +18,7 @@
 > #### Updates on Main Repository
 > + Initial Commit - [link](https://github.com/CSSAC/Karyo-Virtual-Assistant/commit/f47c1331779786624faf218c8d14bd6cf6e781fc)
 > + User Registration Activity (with User Initialisation in Firebase Database) and User Information model - [link](https://github.com/CSSAC/Karyo-Virtual-Assistant/commit/00c8a2fb13d9250e8cdd7e7dc255835c741c7d1a)
+> + User Login Activity and Empty Assistant Activity Added - [link](https://github.com/CSSAC/Karyo-Virtual-Assistant/commit/43648a79a7ebecf686af76e27f4dbe64b9ccb9c7)
 
 > #### Dependencies
 > + Android SQLiteAssetHelper - [link](https://github.com/jgilfelt/android-sqlite-asset-helper)
