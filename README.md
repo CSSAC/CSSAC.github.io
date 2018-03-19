@@ -21,6 +21,9 @@
 > + User Login Activity and Empty Assistant Activity Added - [link](https://github.com/CSSAC/Karyo-Virtual-Assistant/commit/43648a79a7ebecf686af76e27f4dbe64b9ccb9c7)
 > + MCQ Game and TTS Added - [link](https://github.com/CSSAC/Karyo-Virtual-Assistant/commit/d5449e878be1c864772ef2b4c0e97e84a178bb22)
 > + Delay and mcq Loading and Retry Screen added - [link](https://github.com/CSSAC/Karyo-Virtual-Assistant/commit/f0238ea4c42697f47148353bae096ede1926329b) 
+> + Level-up reward layout added (change imageview to be done) - [link](https://github.com/CSSAC/Karyo-Virtual-Assistant/commit/3d614a4764bad84c6fe9fd98a9836bd4e5fe7977)
+> + UserInformation save back and get - [link](https://github.com/CSSAC/Karyo-Virtual-Assistant/commit/2121ebfa2286f62fba16343d9ac8123427af74e3)
+> + Level and Tag Fetch and Query - [link](Level and Tag Fetch and Query)
 
 > #### Dependencies
 > + Android SQLiteAssetHelper - [link](https://github.com/jgilfelt/android-sqlite-asset-helper)
@@ -37,7 +40,9 @@
 > + Analytics Code
 > + Analytics Graph
 > + ~~Add Delay~~
-> + ~~Splash Screen~
+> + ~~Splash Screen~~
+> + ~~Persist and Fetch UserInformation during the game~~
+> + ~~Level and tag query~~
 > + Update Levels and Attempts
 > + Collect and Edit Images
 > + Create Questions
