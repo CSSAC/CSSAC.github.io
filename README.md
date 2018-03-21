@@ -24,6 +24,7 @@
 > + Level-up reward layout added (change imageview to be done) - [link](https://github.com/CSSAC/Karyo-Virtual-Assistant/commit/3d614a4764bad84c6fe9fd98a9836bd4e5fe7977)
 > + UserInformation save back and get - [link](https://github.com/CSSAC/Karyo-Virtual-Assistant/commit/2121ebfa2286f62fba16343d9ac8123427af74e3)
 > + Level and Tag Fetch and Query - [link](Level and Tag Fetch and Query)
+> + Increment Level by comparing it to threshold - [link](https://github.com/CSSAC/Karyo-Virtual-Assistant/commit/8835ff94a27d43988818a581ccf13f9c8e938f9c)
 
 > #### Dependencies
 > + Android SQLiteAssetHelper - [link](https://github.com/jgilfelt/android-sqlite-asset-helper)
@@ -43,6 +44,6 @@
 > + ~~Splash Screen~~
 > + ~~Persist and Fetch UserInformation during the game~~
 > + ~~Level and tag query~~
-> + Update Levels and Attempts
+> + ~~Update Levels and Attempts~~
 > + Collect and Edit Images
 > + Create Questions
